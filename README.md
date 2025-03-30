@@ -24,12 +24,12 @@ This is a cryptocurrency price tracking application built with React, Vite, Coin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Social-Media-Platform.git
+   git clone https://github.com/yourusername/Crypto-Price-Tracking-Application.git
 
 2. Navigate to the backend directory and install dependencies:
 
    ```bash
-   cd Social-Media-Platform/node-rest-api
+   cd Crypto-Price-Tracking-Application/node-rest-api
    npm install
 
 3. Set up your MongoDB database and configure your environment variables (.env)
@@ -45,7 +45,7 @@ This is a cryptocurrency price tracking application built with React, Vite, Coin
 5. Navigate to the frontend directory and install dependencies:
    
    ```bash
-   cd Social-Media-Platform/social-media-platform
+   cd /crypto-dashboard
    npm install
 
 6. Start the frontend development server:
